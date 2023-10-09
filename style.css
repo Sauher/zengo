@@ -35,10 +35,12 @@
 h1{
     color: forestgreen;
     font-style: unset;
+    text-transform: uppercase;
 }
 h2{
     color: forestgreen;
     font-style: unset;
+    text-transform: uppercase;
 }
 a{
     color: blue;
@@ -56,4 +58,7 @@ body{
 }
 p{
     text-indent: 20px;
+}
+li{
+    text-align: justify;
 }
