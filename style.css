@@ -80,7 +80,9 @@ ul{
 }
 #imageleft2{
     display: none;
+    float: none;
 }
 #imageright2{
     display: none;
+    float: none;
 }
