@@ -78,3 +78,9 @@ li{
 ul{
     list-style-type: square;
 }
+#imageleft2{
+    display: none;
+}
+#imageright2{
+    display: none;
+}
